@@ -1,0 +1,16 @@
+C:\Users\Tyoma\Documents\GitHub\FoxNRabbits\FoxNRabbits\FoxNRabbits\bin\Debug\net5.0\FoxNRabbits.exe
+C:\Users\Tyoma\Documents\GitHub\FoxNRabbits\FoxNRabbits\FoxNRabbits\bin\Debug\net5.0\FoxNRabbits.deps.json
+C:\Users\Tyoma\Documents\GitHub\FoxNRabbits\FoxNRabbits\FoxNRabbits\bin\Debug\net5.0\FoxNRabbits.runtimeconfig.json
+C:\Users\Tyoma\Documents\GitHub\FoxNRabbits\FoxNRabbits\FoxNRabbits\bin\Debug\net5.0\FoxNRabbits.runtimeconfig.dev.json
+C:\Users\Tyoma\Documents\GitHub\FoxNRabbits\FoxNRabbits\FoxNRabbits\bin\Debug\net5.0\FoxNRabbits.dll
+C:\Users\Tyoma\Documents\GitHub\FoxNRabbits\FoxNRabbits\FoxNRabbits\bin\Debug\net5.0\ref\FoxNRabbits.dll
+C:\Users\Tyoma\Documents\GitHub\FoxNRabbits\FoxNRabbits\FoxNRabbits\bin\Debug\net5.0\FoxNRabbits.pdb
+C:\Users\Tyoma\Documents\GitHub\FoxNRabbits\FoxNRabbits\FoxNRabbits\obj\Debug\net5.0\FoxNRabbits.csproj.AssemblyReference.cache
+C:\Users\Tyoma\Documents\GitHub\FoxNRabbits\FoxNRabbits\FoxNRabbits\obj\Debug\net5.0\FoxNRabbits.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tyoma\Documents\GitHub\FoxNRabbits\FoxNRabbits\FoxNRabbits\obj\Debug\net5.0\FoxNRabbits.AssemblyInfoInputs.cache
+C:\Users\Tyoma\Documents\GitHub\FoxNRabbits\FoxNRabbits\FoxNRabbits\obj\Debug\net5.0\FoxNRabbits.AssemblyInfo.cs
+C:\Users\Tyoma\Documents\GitHub\FoxNRabbits\FoxNRabbits\FoxNRabbits\obj\Debug\net5.0\FoxNRabbits.csproj.CoreCompileInputs.cache
+C:\Users\Tyoma\Documents\GitHub\FoxNRabbits\FoxNRabbits\FoxNRabbits\obj\Debug\net5.0\FoxNRabbits.dll
+C:\Users\Tyoma\Documents\GitHub\FoxNRabbits\FoxNRabbits\FoxNRabbits\obj\Debug\net5.0\ref\FoxNRabbits.dll
+C:\Users\Tyoma\Documents\GitHub\FoxNRabbits\FoxNRabbits\FoxNRabbits\obj\Debug\net5.0\FoxNRabbits.pdb
+C:\Users\Tyoma\Documents\GitHub\FoxNRabbits\FoxNRabbits\FoxNRabbits\obj\Debug\net5.0\FoxNRabbits.genruntimeconfig.cache

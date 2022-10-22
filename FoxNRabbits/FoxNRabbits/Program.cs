@@ -6,7 +6,7 @@ namespace FoxNRabbits
     {
         static void Main(string[] args)
         {
-            
+
         }
     }
 }
