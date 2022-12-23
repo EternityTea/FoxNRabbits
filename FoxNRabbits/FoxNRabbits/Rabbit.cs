@@ -6,23 +6,24 @@ using System.Threading.Tasks;
 
 namespace FoxNRabbits
 {
-    class Rabbit
+    class Rabbit : Animal
     {
-        int DaysOfAge = 0;
-        int MaxDaysOfAge = 900;
-        char Sex;
-        bool Pregnancy = false;
-        int PregnancyDay = -1;
-        int MinOffspring = 6;
-        int MaxOffspring = 12;
-        int Health;
-        int Agility;
+        public int MaxDaysOfAge = 2555;
+        public int MinOffspring = 4;
+        public int MaxOffspring = 12;
+        public int MinPregnancy = 30;
+        public int MaxPregnancy = 32;
+        public int PregnancyCycle = 30;
+        public int PrevPregnancy = 0;
+        public int Maturity = 90;
 
-        public void Init(char sex, int health, int agility)
+        public void Init(char sex, int health, double agility, int velocity, int strength)
         {
             Sex = sex;
             Health = health;
             Agility = agility;
+            Velocity = velocity;
+            Strength = strength;
         }
     }
 }
