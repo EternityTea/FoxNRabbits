@@ -9,16 +9,10 @@ namespace FoxNRabbits
     class Rabbit : Animal
     {
         public int MaxDaysOfAge = 2555;
-        public int MinOffspring = 4;
-        public int MaxOffspring = 12;
-        public int MinPregnancy = 30;
-        public int MaxPregnancy = 32;
-        public int PregnancyCycle = 30;
-        public int PrevPregnancy = 0;
-        public int Maturity = 90;
 
-        public void Init(char sex, int health, double agility, int velocity, int strength)
+        public void Init(int daysofage ,char sex, int health, double agility, int velocity, int strength)
         {
+            DaysOfAge = daysofage;
             Sex = sex;
             Health = health;
             Agility = agility;
